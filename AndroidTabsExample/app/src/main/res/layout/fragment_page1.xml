@@ -78,7 +78,7 @@
             android:layout_marginEnd="8dp"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
-            android:text="Today:"
+            android:text="Today: Take Medication at 1:00pm"
             android:textColor="@android:color/black"
             android:textSize="16sp"
             android:textStyle="bold"
